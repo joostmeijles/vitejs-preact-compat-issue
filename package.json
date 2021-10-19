@@ -1,0 +1,19 @@
+{
+  "name": "my-vite-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "keen-slider": "^5.5.1",
+    "preact": "^10.5.15",
+    "preact-compat": "^3.19.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.0.0",
+    "typescript": "^4.3.2",
+    "vite": "^2.6.4"
+  }
+}
